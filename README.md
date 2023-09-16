@@ -1,16 +1,27 @@
 # animacao_neumorfismo
 
-A new Flutter project.
+Um estudo sobre como fazer objetos neumorficos em flutter
 
-## Getting Started
+Ex: 
 
-This project is a starting point for a Flutter application.
+<p align="center">
+    <img class="rounded-image" src="https://github.com/NathanaelDelfino/animacao_neumorfismo/assets/7662248/e3437abb-6ad2-4957-a75e-87669eb978b9" alt="Menu" height="auto"       width="250" style="border-radius:50%">
+</p>
+<p align="center">Exemplo : Efeito</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img class="rounded-image" src="https://github.com/NathanaelDelfino/animacao_neumorfismo/assets/7662248/d5cfc642-7dd0-4df4-b168-d5f135908839" alt="Menu" height="auto" width="250" style="border-radius:50%">
+</p> 
+<p align="center">Exemplo : Menu</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+
+<p align="center">
+    <img class="rounded-image" src="https://github.com/NathanaelDelfino/animacao_neumorfismo/assets/7662248/3b288e52-4c7b-40e5-93c8-eba38d2914a8" alt="Menu" height="auto"       width="250" style="border-radius:50%">
+</p>
+<p align="center">Exemplo : Close</p>
+
+
+
+  
