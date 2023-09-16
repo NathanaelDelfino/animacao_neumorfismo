@@ -3,9 +3,8 @@
 Um estudo sobre como fazer objetos neumorficos em flutter
 
 Ex: 
-
 <p align="center">
-    <img class="rounded-image" src="https://github.com/NathanaelDelfino/animacao_neumorfismo/assets/7662248/e3437abb-6ad2-4957-a75e-87669eb978b9" alt="Menu" height="auto"       width="250" style="border-radius:50%">
+    <img class="rounded-image" src="https://github.com/NathanaelDelfino/animacao_neumorfismo/assets/7662248/3a16cc67-471c-4599-829c-6868baeb43a6" alt="Menu" height="auto"       width="250" style="border-radius:50%">
 </p>
 <p align="center">Exemplo : Efeito</p>
 
