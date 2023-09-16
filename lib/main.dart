@@ -1,4 +1,3 @@
-//Um estudo sobre como fazer objetos neumorficos em flutter
 import 'package:flutter/material.dart';
 
 void main() {
